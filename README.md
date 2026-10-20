@@ -1,11 +1,10 @@
 <div align="center">
 
 Pedro Daniel
-IT student at UNIRIO
+IT student at UNIRIO | Full Stack Developer
 
 Building.
 </div>
-
                                                           ,,.
                                                       ,,:l-(v1{}_
                                                    .:l_?!:!]{<}/r[   `^.  .
@@ -69,14 +68,7 @@ Building.
                                     .   ` .. . . . ^^ ^.`...... . `^   .
                                         .    ..  .  ` ` .       .
                                                       .
-
-
-
-Sobre mim
-Escolhi Sistemas de Informação porque, para mim, poucas coisas são tão interessantes quanto usar tecnologia para apoiar uma organização e perceber que isso melhora a vida das pessoas.
-
-Gosto de entender necessidades, identificar problemas e transformá-los em produtos digitais. Não acho que uma solução precise começar sofisticada: ela precisa começar sendo útil. O resto se constrói e se aperfeiçoa a partir de quem realmente vai usá-la.
-
+                                              
 # Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgres,git,linux" />
