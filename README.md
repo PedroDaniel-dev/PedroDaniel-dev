@@ -5,6 +5,7 @@ IT student at UNIRIO | Full Stack Developer
 
 Building.
 </div>
+
                                                           ,,.
                                                       ,,:l-(v1{}_
                                                    .:l_?!:!]{<}/r[   `^.  .
@@ -68,7 +69,7 @@ Building.
                                     .   ` .. . . . ^^ ^.`...... . `^   .
                                         .    ..  .  ` ` .       .
                                                       .
-                                              
+                                                
 # Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgres,git,linux" />
