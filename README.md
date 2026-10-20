@@ -1,78 +1,83 @@
 <div align="center">
 
 Pedro Daniel
-Estudante de Sistemas de Informação na UNIRIO
+IT student at UNIRIO
 
-Entender problemas, construir soluções úteis.
+Building.
 </div>
 
-                                           ;,I\),;;;,
-                                       1*uYCCJLLJCCCUu//_l
-                                   :~fJOmZOOO00ZO0OZZZO0Uu(1,
-                                 +*YCQLJJXUJQOZmZZQJJzXUUzzct[
-                               ,(cCurffnvYUXccQZZOQJJLzj\(fxjn*;
-                              ;juxxuYJJZZZLJLL0O0CYzvnuzXj?I!]j{
-                             ;)j\rcUXczf(~+(vQ00LLu?+-l<tXct-;<>l
-                             !!:-1~ :I   :fULQLLQLCz(!Il;-|t\i
-                             -<~\!      IxJUUUYzvcuxj)~;    ;<{!
-                            : l\j|!    ljUQQLUXXzJUzxt]!      !;
-                             ~t1<     [nXXccnvXUJYntrun(I     <}f{?**;
-                           )/Yf      [ft|?; :_{[+I<}(\t/[    !\jjr{/C\
-                           ?l        ,   ,;,  (|:       !I   ,,,;;I-{l
-                                         !;  ?QOf   ,II,:       ;I!I:;,
-                                    :_:     !n00u:                  ;;
-                          I         I((+<<>}\uJU(>;
-                         !(?          -(11)-{L00u(<I;                ,I
-                       I)}~!           _}}-l(/((}{+!ii;   ;,           !
-                        i               :;_/*     ?{!;  :,,,
-                                          l<+I,   ;<;  ;;;;;      ,;;;:
-                                      ;,    ~-      ;;I!!!;
-                                       !~!;:l<I,;;lI!ii<<I      :;II;,
-                                        >?_!       ;!<i!:         :,;,
-                                         :i+~~~~~<!iil,                  ;;
-                                           :I<<ii!lI;:   :               !i
-                       ,-?>                  Il;;;ll;:  :;
-                      |ruj}l          I,     ;!!!!lI;,,Il;
-                   i?fvxx\]1[[-ii     ;;,:   ,;;I;;;,;Ill
-                 _1zYXCnuc|tj({1{?i  !>;,;:  ,;;lI;;,;II,
-             >\uzXuuJYzJnUJxnn/1|/|{[}{~,;;:,,;I!!!Il!I,                  :,
-          I1nYJzvYUnjYcuUnUCxYr*xjtt|)}{+l,,,,;;llll!;                    -/*<
-         |nuuccUXxnux|vvuJxzJUUxjjjtt**/|1_:     :;I:                      >\(~)}
-       <tnxxnnxrvcr|fn-/nzJ*fL0Ycunr*(((((1+                                ;[*cJv_
-      <(()|//\ft)jnr(\t!l1xz(|YCczzut)][[[[[~                           :   I(furzr(?
-     _1}[}[1\)}t\]fuu|\t_ +/u|(YJjvzcx*1[}{}{+                      i->[!  !!1*t\vf|t/?
-    -1}{[{-:})}?)|}))rtnjI  -t|)YvtjuvXn\}[}}{~    ::  ,I    ,;:I>>|xf*-!-?(!}t\/t1}/ft1
-   _1{}_i;{- )){!](}(*n*)([l  ~~-XLzj*tjvft({{[i  ,,  ,;  ;~[1/()\cJc\<:(rn\!-}(j{[{tf*f+
-  -([}[lii,(< 1)[ ~1*t1)rnn1     <|zUXr*|\|\(1?_!,;;;lI;_((frff\)XQj}l (uXv_;!<\\~1?**/\l
-  :_}{}_,_Ii|; -1[(t/-)rrf{~{*[     ;[/cuunnjxj|(}]--)**rvvnrvzUUz}lI;1XYj_;I;?*+}]-*//>
-     _{1~:~ ~(l-\/t? [t**}[fn\/(~:    ,::>11||1)))((\rvzYUUUUUcr{;;iI{UX(<!i;!>~!|_?t/-
-      ;+?;   i|}[-: !(\)-]jn1|rnx(_   i]?~     !<+[}{(\\(1?~<I  ,!<;[Uv_,<~] ;!!i_!{t~
-                    ~[? <rx[1nzzx/){-   <{\t1?,    ::  :;,,,::,!<i,[c/: I-/i  Iii!~(<
-                   ;-<  tt<_jnnrjruuj{,   ,~|xnnf(?;   ;!I;;lll!;I(f+  <)t}   ;i<<I
-                   ?l I\(>]xxxxxnXzr(}?,      <]/xcYut(~; :Iii<~{\): :)jt] :  I!,
-                  <,  (1}*nxrxnxj*1[}}[)|-        ;_(fuzut\}~<_|*~ ,+()?l ;:
-                    ,?}/ncnxrj*){}{{}1tn/!      ;;I,   <[|rvn/)_I,;i!     I
-                       <>}1{?<; +]??1xx[  ;I>,     ,       ,!I:;!,
-                                    {},   _)[:        ,,
-                                   :I    -\- l!         ,;;,
-                                        >{i I<i!;       :   ;
-                                        !,:I!!!!!;
-                                     ;<??[]][[?__+<l;,
-                              I<{|*tjxvccvvvvcvununrt*\{-<:
-                              ;_}{111{1))))))(())((1{1))?~<
+                                                          ,,.
+                                                      ,,:l-(v1{}_
+                                                   .:l_?!:!]{<}/r[   `^.  .
+                                                 .^;:^li:!l:,~1/cCX)_[/x/|/]^
+                                               `;:,`^I!::^!]}[{Yz/)nj()/XCr|>
+                                           ^:,,I_[j}}_-<]zOzt)))(`_/YLJxt\rux:  ^;,
+                                        ^l+}~iI;l<1)1)()Lqt\~`ll/??)|(!^,:,:\t\rvcvj!
+                                    .,,,;i+-->+[)jfj)_~)trYt` .,;-){?I.  `I<_rr(>!i?|.
+                                  I>>_<;i_[[1|//]l;:,;I>!-1r!!,.`....:lI^^:>\xnu(l;!>
+                                 I~!I`;--+|tftvYC(;I+~^.,:^~(1+i::i]/funj1?[}[_-(r)_!
+                               ``l~~;l+!,1+;^`;<?c\_l,:` .``^;I<_)rvC0*phbwU)I` .lr{\/{:
+                              .,`^,;i;:<!l^` ^l+~!>_+l:^`..`,l?)jvLZOwMaa#kamY[,^;({)trx?
+                               ``.``^I<!;^,I[)/jjt{_<>+;:,;<[tJ0kddkmmka8BMhbdY(l^l[;:,:}`
+                               .;!II_-+i;`^-!,.^:l~+il,`^l?\cJL0XxjxvvYXmwwba#MC-.^^``i!l
+                             .,;;:<1]jf)i;,!~[:. ``.`.`;!_}[?+~>~>;`...^;+1JOOkhz^.^^lil.
+                          ^:;^::,~{<i+[xvr\/j1<,`>I``:i_~!,`.``;>+!^..`` `fOC[-(Xj `,_l
+                         :~-~+~<>>`..^^;l~+>Ill..,<<I_[t)_!I;:I~[1[l   `;>f#@1  ,(-``_{,
+                        .llll<[-l:^,^  `^```,^.;i::i+{/jcJCJJXu///j)+<~}/t(c8Ml^I!?``^>_
+                          ^i>i>]!,,,``. .... .^>_-i<?}\\cnm0hkbqZLZmmZCYznuvZ$Ql;;i:l;;;
+                          :;`  `,:,`^.`^  `. ..`:l-!<_?[(1jnUcYmZpkMoqJrzYzXJo&U:^.:i!^
+                          :,` .^.   ,.::.  `;,`:;^;i!li+>??)tr/YQmkawC/1)?>;;l~/i.:.
+                           ::.^:..  ,:!; . .,:,`^;>~->i>>]+[)\|vcQ0Zwbu!,^``,.lYn`;^
+                          `~l:`.``...;l!::~!ll,;l>~_]_-+~?+}?1}ffzLZZO0Yj1_,,|ULYI`:
+                          !>I^.`,`^.  ^Ii~?1)_,Ii<_?~_}+~+<??}()xcu(<l_++i,:IxOn):.
+                         `l^^ .^;^` .    `::,.`I><~+-~_?-_~]?_{}}}{|ut((rv11-!Jj>.
+                          .`^^^ `^.`,,.  .`. .`:!>>~<<+<_!<i<!_i<-(xu\_I:^,i1l(/.
+                              .`  :`::^. .^::;,^;Il!!il!il<I!i~~])rXUOwkwmc{?r1i
+                              ^.`I<I:^`. `:!i>!^`^,::,,;::;;!Ii<+-(/uvvYXcXdJ\+
+                             ::II::;     ^Ii-?>i,^````^```^^^^:^,;;;l;Ili~-jv(`
+                             .,I^ ```..  ^l~?]-_l^^^`^```````.`^``````^``,,:<!
+                               .^` ...   ,l>+[-[<;,,^``````^,^^,,:^,,,,:;:,,^
+                                  .. ``  ^l>~1-[+l:::^`^```.`^^^,,::;;;;:l?.
+                                  ,`^,.  ^;i<?+[~!;:;l>>~iI;^.....````.`:[rl
+                                  .:,` . `;l!++]+<;l>~[}(1|?>;`.`..  ..;?jY/
+                                     `.` .,Ii~<[-~i!!!~>_-}?<;,^``...^I+|czu,
+                                       .. ,::!>??-~l!I;:;:^,^,,``..`,I_1rcuu_. .,!_!.
+                                          ,,,I!++[_>il;:^```^^.`.`^:>~1f|cxx1}[_!l+t)]}(/[i`
+                                          ,^^:li~}-i;l!l;^^^```^^,Ii??)j/njr))xuf){JLCJLz(}?; .`:^
+                                          :,`^;l>]?i::,,,`^^`^,:;!>_?[)|)\f\/|cXuULkmYC|~!])1\|))]~;,,`
+                                         `l:^^^;l_?<;^^^`.```^I>><>+~??}1//nUcY\nbqvZU[l~[txuXvxu1{_ii;,.
+                               ..``..  .^:!:,,`^;i}+I^^.````Ii~<>i><?}{)t/LUu)-/qar0L[;_|zzrJL)+>;I,:,^`
+                             ^^;^`.  `,:^l!:^,,^^l1[>^```^,i_[]_?1(/zuuvQxC(?lx0O0jc~;<1cc1Xx!,>~][+>I,`
+                        .`,:;:,..  `^,;::>l,`!;,`:[(~,^,::?}\trvxXJuztYUvj?l;}hbx}U}^!1tc[r\^I+()/?];,:..
+                  ```,^::;I,^``^^..^,,:,!!:^l+!>,`~t]::!!-\jUxuYXzc((vCt-i,>)nU0(cul:-{v1?/::-1t(|>!,^`
+               .^`^,^:^^^`^,::Iil:^^,;l!!l;<[{)/}+[t/(}1\\\ujzx/}+l</n{!:`_[vX[r_U?`i-(/I_>^<-1[{~;^^.
+              ```^^:,^^:II;^>I!:I++_-_]?}}}\/rfr/fxtnr\xr/rvf{}]?_{Yj}i;,](?c?x1{1,:i}1l;_:l_~}~+;,``
+             ``,:;,^`,!~!^ .>+!_~;Iii<+_]{(/]t1f/1})\/fjvvzYuxx{+}Yt+>:^]f]tx+n?)i`l~}l,>_Il<<?::,` .
+             `^,,`..I!~I. `.,]i>[[]+<++??{[))\|(1[])(rxcx(-_<l,,1f1+<,`-f}+|j+?~)`,!+:,;->^><^I^,``
+              `....;II:  .:`.~{;:<1{j\1}{1[}}}}}]]/()1?<l,^^^.,1t)-<^ ~\/>{/?+i-l`;;^^ll-;`:i`:``. .
+               ...^:,; . :;^`:[?:^:i-[c\frt/\j)/{_-l;;`,^```.I|/[]I`.I)t~!))-I>?``^`^;!<l,,`,.,  .
+                 ` ^^.. `!l,`,l)_,`^:;>><_<+>!:;,`^^`^,^``^,])f]i^.^,[1}<}]>>;>I ..`::li^^. ` .
+                   .... ;;I,`:,!)}:`...`^`^`.``^^^``````,,l]n]i,.`:^<\)I![-;;Ii`  `^::i`,.,^  .
+                   . . `::I^.:l,!){i,^. ...`````````^^:ll+}(l:.`^;,:_+~!l+;:,;! ..^^l`, ,. .
+                       ^,`,^.`i;^!1}]>;,`..   ....^:;li<1{<:`.^,I;`l_>ll!i,:,l^ ..,., ^ `  .
+                      . `.``. I!;^^?(?]>i:,^^`..^,,:Il+}<:`.`^:I;.:l+;I!:;`;^:.  `^ ` `  `
+                        . .`. ^!:,^,;]{_{+>!l::::^^:+?~^`..`^^II. II>^!:^^^^,^ . .. . .
+                            .. `;,^``,ll??+_~~<il!~<~^`. .`^^;,` `!;:,! ^`^`^  `. .
+                                ^^,, ``,`ll_!?i+!i:^^.. ```,,:`. ^l:`,; ,.^.^    .
+                                 .,^ ^. `.^^,^^,``. `.. ``^,`....^:,`:.`. ..`
+                                .  ` `... .... .   .^...^`,..`  ^`...,  ..
+                                    .   ` .. . . . ^^ ^.`...... . `^   .
+                                        .    ..  .  ` ` .       .
+                                                      .
+
+
 
 Sobre mim
 Escolhi Sistemas de Informação porque, para mim, poucas coisas são tão interessantes quanto usar tecnologia para apoiar uma organização e perceber que isso melhora a vida das pessoas.
 
 Gosto de entender necessidades, identificar problemas e transformá-los em produtos digitais. Não acho que uma solução precise começar sofisticada: ela precisa começar sendo útil. O resto se constrói e se aperfeiçoa a partir de quem realmente vai usá-la.
-Tecnologias que uso
-Web e interfaces
-<img alt="HTML, CSS, JavaScript, React e Vite" src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
 
-
-Backend e linguagens
-<img alt="Java, Spring Boot, Node.js e Python" src="https://skillicons.dev/icons?i=java,spring,nodejs,py&theme=dark" />
-
-
-Dados e ferramentas
-<img alt="PostgreSQL, Git e Linux" src="https://skillicons.dev/icons?i=postgres,git,linux&theme=dark" />
+# Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgres,git,linux" />
+</p>
